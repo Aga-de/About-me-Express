@@ -1,0 +1,10 @@
+{
+  "name": "express-aboutme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Aga Daniuk <agdani@wp.pl>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
